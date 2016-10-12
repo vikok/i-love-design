@@ -63,7 +63,7 @@ main {
 }
 
 .ba-section {
-
+	font-size: 0;
 }
 
 .ba-tit {
@@ -73,10 +73,14 @@ main {
 	line-height: 36px;
 	text-align: center;
 	margin-top: 120px;
+	margin-bottom: 100px;
 }
 
-.ba-column {
-
+.ba-text {
+	display: inline-block;
+	width: 33%;
+	padding-right: 34px;
+	font-size: 18px;
 }
 
 .ba-h {
@@ -86,7 +90,6 @@ main {
 	line-height: 42px;
 	text-align: left;
 	display: inline-block;
-	width: 33%;
 }
 
 .ba-tul {
@@ -96,7 +99,7 @@ main {
 	line-height: 30px;
 	text-align: left;
 	display: inline-block;
-	width: 33%;
+	margin-bottom: 123px;
 }
 
 
