@@ -81,6 +81,7 @@ main {
 	width: 33%;
 	padding-right: 34px;
 	font-size: 18px;
+	float: left;
 }
 
 .ba-h {
